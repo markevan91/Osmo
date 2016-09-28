@@ -1,2 +1,7 @@
 # Osmo
-Osmobot documentation
+
+Osmobot Documentation
+  -Overview
+  -Install Hardware and Sensors
+  -Get Online and Create Account
+  -Troubleshooting
